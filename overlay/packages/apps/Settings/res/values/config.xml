@@ -17,4 +17,13 @@
   <string name="config_batDesCap">/sys/class/power_supply/bms/charge_full</string>
   <string name="config_batCurCap">/sys/class/power_supply/bms/charge_now_raw</string>
   <string name="config_batChargeCycle">/sys/class/power_supply/bms/cycle_count</string>
+
+    <!-- Whether device has a notch -->
+    <bool name="config_haveNotch">true</bool>
+
+    <!-- Default value for proximity check on screen wake
+     NOTE ! - Enable for devices that have a fast response proximity sensor (ideally < 300ms)-->
+    <bool name="config_proximityCheckOnWake">true</bool>
+    <integer name="config_proximityCheckTimeout">100</integer>
+    <bool name="config_proximityCheckOnWakeEnabledByDefault">true</bool>
 </resources>
