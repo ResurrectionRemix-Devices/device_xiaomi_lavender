@@ -570,4 +570,6 @@
     <!-- Whether device has a physical display cutout -->
     <bool name="config_physicalDisplayCutout">true</bool>
 
+     <!-- If this is true, the screen will fade off. -->
+    <bool name="config_animateScreenLights">true</bool>
 </resources>
