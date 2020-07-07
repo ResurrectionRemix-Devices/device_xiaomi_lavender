@@ -531,6 +531,11 @@ on property:sys.boot_completed=1
     #WDSP FW boot sysfs node used by STHAL
     chown media audio /sys/kernel/wdsp0/boot
     chown media audio /sys/kernel/wcd_cpe0/fw_name
+    #governor settings
+    write /sys/devices/system/cpu/cpufreq/policy0/scaling_min_freq 300000
+    write /sys/devices/system/cpu/cpufreq/policy0/scaling_governor interactive
+    write /sys/devices/system/cpu/cpufreq/policy4/scaling_min_freq 300000
+    write /sys/devices/system/cpu/cpufreq/policy4/scaling_governor interactive
 
 on property:persist.vendor.radio.atfwd.start=false
     stop vendor.atfwd
