@@ -1,0 +1,2 @@
+allow surfaceflinger init:binder { call };
+
