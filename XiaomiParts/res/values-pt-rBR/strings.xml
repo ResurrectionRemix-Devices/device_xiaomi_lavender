@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Head Title -->
+    <string name="xiaomiparts_title">Xiaomi Parts</string>
+    <string name="xiaomiparts_settings_summary">Configurações do dispositivo XiaomiParts</string>
+
+    <!-- Category Title -->
+    <string name="display_title">Tela</string>
+    <string name="vibration_title">Controle de Vibração</string>
+    <string name="torch_title">Lanterna</string>
+    <string name="audio_title">Som</string>
+
+    <!-- Audio amplification -->
+    <string name="headphone_gain">Ganho do Headphone</string>
+    <string name="microphone_gain">Ganho do Microfone</string>
+
+    <!-- Torch -->
+    <string name="torch_brightness_title">Brilho</string>
+
+    <!-- FPS Info -->
+    <string name="fps_info_title">FPS na Tela</string>
+    <string name="fps_info_summary">Mostrar taxa de atualização atual na tela</string>
+
+    <!-- Backlight Dimmer -->
+    <string name="backlight_dimmer">Tempo de Luz de Fundo</string>
+    <string name="backlight_summary">Escureça a tela para o valor máximo</string>
+
+    <!-- Vibrator -->
+    <string name="vibration_strength_title">Força</string>
+
+    <!-- kcal -->
+    <string name="device_kcal_title">Configurar Cores da Tela</string>
+    <string name="device_kcal_summary">Configurações de cores da tela (Kcal)</string>
+    <string name="advanced_settings_kcal">Calibrar as Cores da Tela</string>
+    <string name="cat_colormanagement">Configurações de Cores</string>
+    <string name="cat_calibration">Calibrar Tela</string>
+
+    <string name="kcal_enabled">Ligado</string>
+    <string name="kcal_disabled">Desligado</string>
+    <string name="set_on_boot">Ativar ao ligar</string>
+    <string name="color_red">Vermelho</string>
+    <string name="color_green">Verde</string>
+    <string name="color_blue">Azul</string>
+    <string name="color_minimum">Minimo</string>
+    <string name="saturation">Saturação</string>
+    <string name="value">Valor</string>
+    <string name="contrast">Contraste</string>
+    <string name="hue">Hue</string>
+    <string name="grayscale">Escala Cinza</string>
+
+    <string name="presets_dialog_title">Selecionar Predefinição</string>
+    <!-- Presets -->
+    <string name="preset_default">Padrão</string>
+    <string name="preset_version_1">Versão 1</string>
+    <string name="preset_version_2">Versão 2</string>
+    <string name="preset_version_3">Versão 3</string>
+    <string name="preset_triluminous">Trilumioso</string>
+    <string name="preset_deep_black_white">Deep Preto e Branco</string>
+    <string name="preset_deep_natural">Deep Natural</string>
+    <string name="preset_cool_amoled">Amoled Legalzin</string>
+    <string name="preset_extreme_amoled">Amoled Mutcho Loko</string>
+    <string name="preset_warm_amoled">Amoledzin</string>
+    <string name="preset_hybrid_mamba">Hybrido Mamba</string>
+    <string name="preset_burn_in">Burn in Merda</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Som Equalizador</string>
+    <string name="dirac_summary">Optimize a qualidade de Áudio (Viper4a é melhor hehe)</string>
+    <string name="dirac_headset_title">Escolher tipo de headfone</string>
+    <string name="dirac_preset_title">Escolher Predefinição</string>
+
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Padrao</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">Geral</string>
+    <string name="dirac_headset_general_inear">Geral In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basico Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Padrão</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clássico</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electronica</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+
+    <!-- Ambient gesture haptic feedback -->
+    <string name="ambient_gesture_haptic_feedback">Feedback Tático</string>
+    <string name="ambient_gesture_haptic_feedback_summary">Vibrar quando um gesto for detectado na tela ambiente</string>
+
+    <!-- Ambient Display -->
+    <string name="ambient_display_enable_title">Tela Ambiente</string>
+    <string name="ambient_display_enable_summary">Acorde a tela ao receber notificações</string>
+    <string name="ambient_display_gestures_title">Gestos da tela ambiente</string>
+    <string name="ambient_display_gestures_summary">Gestos adicionais para ativar a tela</string>
+    <string name="ambient_display_summary">Acorde a tela ao receber notificações</string>
+    <string name="ambient_display_summary_on">A tela será ativada quando você receber notificações</string>
+    <string name="ambient_display_summary_off">A tela não será ativada quando você receber notificações</string>
+
+    <!-- Doze sensor -->
+    <string name="tilt_sensor_title">Sensor de inclinação</string>
+    <string name="pickup_sensor_title">Sensor de captação</string>
+    <string name="proximity_sensor_title">Sensor de proximidade</string>
+
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">Acenar a mão</string>
+    <string name="hand_wave_gesture_summary">Ligar tela ambiente ao acenar a mão</string>
+    <string name="hand_wave_gesture_flat_title">Detectar orientação</string>
+    <string name="hand_wave_gesture_flat_summary">Pulso apenas se o telefone estiver voltado para cima em uma superfície plana</string>
+
+    <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Pegar</string>
+    <string name="pick_up_gesture_summary">Ligar tela ambiente ao pegar o telefone</string>
+
+    <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">Bolso</string>
+    <string name="pocket_gesture_summary">Ligar tela ao pegar o celular do bolso</string>
+
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Ligar ao Aproximar</string>
+    <string name="proximity_wake_enable_title">Ligar ao Aproximar</string>
+    <string name="proximity_wake_enable_summary">Ligar tela ao aproximar</string>
+
+    <!-- menu -->
+    <string name="kcal_presets">@string/presets_dialog_title</string>
+    <string name="kcal_reset">Resetar</string>
+
+    <!-- Label for feature switch  -->
+    <string name="switch_bar_on">Ligado</string>
+
+    <!-- Label for feature switch -->
+    <string name="switch_bar_off">Desligado</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">Padrão</string>
+    <string name="custom_seekbar_default_value_to_set">Valor Padrão: <xliff:g id="v">%s</xliff:g>\nToque longo para redefinir</string>
+    <string name="custom_seekbar_default_value_is_set">Valor redefinido para o padrão</string>
+</resources>
