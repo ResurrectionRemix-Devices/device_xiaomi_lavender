@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Head Title -->
+    <string name="xiaomiparts_title">Настройки Xiaomi</string>
+    <string name="xiaomiparts_settings_summary">Настройки устройства</string>
+
+    <!-- Category Title -->
+    <string name="display_title">Экран</string>
+    <string name="vibration_title">Настройки вибрации</string>
+    <string name="torch_title">Фонарик</string>
+    <string name="audio_title">Звук</string>
+
+    <!-- Audio amplification -->
+    <string name="headphone_gain">Усиление наушников</string>
+    <string name="microphone_gain">Усиление микрофона</string>
+
+    <!-- Torch -->
+    <string name="torch_brightness_title">Яркость</string>
+
+    <!-- FPS Info -->
+    <string name="fps_info_title">Отображение FPS</string>
+    <string name="fps_info_summary">Показать текущий FPS</string>
+
+    <!-- Backlight Dimmer -->
+    <string name="backlight_dimmer">Яркость подсветки</string>
+    <string name="backlight_summary">Минимальное значение яркости</string>
+
+    <!-- Vibrator -->
+    <string name="vibration_strength_title">Сила вибрации</string>
+
+    <!-- kcal -->
+    <string name="device_kcal_title">Калибровка экрана</string>
+    <string name="device_kcal_summary">Калибровка цвета дисплея с использованием KCAL</string>
+    <string name="advanced_settings_kcal">Калибровка цвета дисплея</string>
+    <string name="cat_colormanagement">Настройкиц ветности</string>
+    <string name="cat_calibration">Калибровка дисплея</string>
+    <string name="kcal_enabled">Вкл</string>
+    <string name="kcal_disabled">Выкл</string>
+    <string name="set_on_boot">Установить при загрузке</string>
+    <string name="color_red">Красный</string>
+    <string name="color_green">Зелёный</string>
+    <string name="color_blue">Синий</string>
+    <string name="color_minimum">Минимальное значение</string>
+    <string name="saturation">Насыщенность</string>
+    <string name="value">Яркость</string>
+    <string name="contrast">Контрастность</string>
+    <string name="hue">Оттенок</string>
+    <string name="grayscale">Оттенки серого</string>
+
+    <string name="presets_dialog_title">Варианты настроек</string>
+    <!-- Presets -->
+    <string name="preset_default">По умолчанию</string>
+    <string name="preset_version_1">Вариант 1</string>
+    <string name="preset_version_2">Вариант 2</string>
+    <string name="preset_version_3">Вариант 3</string>
+    <string name="preset_triluminous">Трилуминозный</string>
+    <string name="preset_deep_black_white">Глубокий черный и белый</string>
+    <string name="preset_deep_natural">Натуральные цвета</string>
+    <string name="preset_cool_amoled">Крутой Amoled</string>
+    <string name="preset_extreme_amoled">Экстрим Amoled</string>
+    <string name="preset_warm_amoled">Тёплый Amoled</string>
+    <string name="preset_hybrid_mamba">Гибрид Мамбы</string>
+    <string name="preset_burn_in">Адское пламя</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_title">Mi Усилитель звука</string>
+    <string name="dirac_summary">Оптимизация качества звука</string>
+    <string name="dirac_headset_title">Выбрать тип наушников</string>
+    <string name="dirac_preset_title">Выбрать предустановку</string>
+
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">По умолчанию</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">General</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Standard Edition</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">По умолчанию</string>
+    <string name="dirac_preset_rock">Рок</string>
+    <string name="dirac_preset_jazz">Джаз</string>
+    <string name="dirac_preset_pop">Поп</string>
+    <string name="dirac_preset_classical">Класика</string>
+    <string name="dirac_preset_hiphop">Хип Хоп</string>
+    <string name="dirac_preset_blues">Блюз</string>
+    <string name="dirac_preset_electronic">Электроника</string>
+    <string name="dirac_preset_country">Кантри</string>
+    <string name="dirac_preset_dance">Денс</string>
+    <string name="dirac_preset_metal">Металл</string>
+
+    <!-- Ambient gesture haptic feedback -->
+    <string name="ambient_gesture_haptic_feedback">Тактильная отдача</string>
+    <string name="ambient_gesture_haptic_feedback_summary">Вибрация при обнаружении жеста</string>
+
+    <!-- Ambient Display -->
+    <string name="ambient_display_enable_title">Ambient Дисплей</string>
+    <string name="ambient_display_enable_summary">Включать экран при получении уведомлений</string>
+    <string name="ambient_display_gestures_title">Жесты Ambient Дисплея</string>
+    <string name="ambient_display_gestures_summary">Дополнительные жесты для включения экрана</string>
+    <string name="ambient_display_summary">Пробуждение экрана при получении уведомлений</string>
+    <string name="ambient_display_summary_on">Экран включается при получении уведомления</string>
+    <string name="ambient_display_summary_off">Экран не включается при получении уведомления</string>
+
+    <!-- Doze sensor -->
+    <string name="tilt_sensor_title">Датчик наклона</string>
+    <string name="pickup_sensor_title">Датчик подъёма устройства</string>
+    <string name="proximity_sensor_title">Датчик приближения</string>
+
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">Взмах рукой</string>
+    <string name="hand_wave_gesture_summary">Лульсирующие уведомления при взмахе рукой</string>
+    <string name="hand_wave_gesture_flat_title">Определение ориентации устройства</string>
+    <string name="hand_wave_gesture_flat_summary">Пульсирующие уведомления только если устройство лежит горизонтально</string>
+
+    <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Поднять устройство</string>
+    <string name="pick_up_gesture_summary">Пульсирующие уведомления при взятии устройства</string>
+
+    <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">Карман</string>
+    <string name="pocket_gesture_summary">Пульсирующие уведомления при доставании из кармана</string>
+
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Включение при приближении</string>
+    <string name="proximity_wake_enable_title">Включение при приближении</string>
+    <string name="proximity_wake_enable_summary">Пробудить устройство при приближении или взмахе рукой</string>
+
+    <!-- menu -->
+    <string name="kcal_presets">@string/presets_dialog_title</string>
+    <string name="kcal_reset">Сброс</string>
+
+    <!-- Label for feature switch  -->
+    <string name="switch_bar_on">Вкл</string>
+
+    <!-- Label for feature switch -->
+    <string name="switch_bar_off">Выкл</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Значения: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">По умолчанию</string>
+    <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nLong press to set</string>
+    <string name="custom_seekbar_default_value_is_set">Установить значения по умолчанию</string>
+</resources>
