@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Head Title -->
+    <string name="xiaomiparts_title">Xiaomi Parts</string>
+    <string name="xiaomiparts_settings_summary">Personalizaciones adicionales del dispositivo</string>
+
+    <!-- Category Title -->
+    <string name="display_title">Pantalla</string>
+    <string name="vibration_title">Vibración</string>
+    <string name="torch_title">Linterna</string>
+    <string name="audio_title">Audio</string>
+
+    <!-- Audio amplification -->
+    <string name="headphone_gain">Ganancia de Auriculares</string>
+    <string name="microphone_gain">Ganancia de Micrófono</string>
+
+    <!-- Torch -->
+    <string name="torch_brightness_title">Brillo de Linterna</string>
+
+    <!-- FPS Info -->
+    <string name="fps_info_title">Gráfica de FPS</string>
+    <string name="fps_info_summary">Mostrar gráfica de FPS</string>
+
+    <!-- Backlight Dimmer -->
+    <string name="backlight_dimmer">Atenuador de luz de fondo</string>
+    <string name="backlight_summary">Atenuar la pantalla al valor máximo</string>
+
+    <!-- Vibrator -->
+    <string name="vibration_strength_title">Fuerza de Vibración</string>
+
+    <!-- kcal -->
+    <string name="device_kcal_title">Calibracion de Pantalla</string>
+    <string name="device_kcal_summary">KCAL</string>
+    <string name="advanced_settings_kcal">Colores de Pantalla</string>
+    <string name="cat_colormanagement">Ajustes de Color</string>
+    <string name="cat_calibration">CCalibracion de Pantalla</string>
+
+    <string name="kcal_enabled">Encendido</string>
+    <string name="kcal_disabled">Apagado</string>
+    <string name="set_on_boot">Fijar en Arranque</string>
+    <string name="color_red">Rojo</string>
+    <string name="color_green">Verde</string>
+    <string name="color_blue">Azul</string>
+    <string name="color_minimum">Mínimo</string>
+    <string name="saturation">Saturación</string>
+    <string name="value">Valor</string>
+    <string name="contrast">Contraste</string>
+    <string name="hue">Matíz</string>
+    <string name="grayscale">Escala de Grises</string>
+
+    <string name="presets_dialog_title">Seleccionar Preajuste</string>
+    <!-- Presets -->
+    <string name="preset_default">Perfil por Defecto</string>
+    <string name="preset_version_1">Version 001</string>
+    <string name="preset_version_2">Version 002</string>
+    <string name="preset_version_3">Version 003</string>
+    <string name="preset_triluminous">Triluminoso</string>
+    <string name="preset_deep_black_white">Blanco/Negro Profundo</string>
+    <string name="preset_deep_natural">Natural</string>
+    <string name="preset_cool_amoled">Frio [Recomendado]</string>
+    <string name="preset_extreme_amoled">Amoled Extremo</string>
+    <string name="preset_warm_amoled">Cálido</string>
+    <string name="preset_hybrid_mamba">Híbrido</string>
+    <string name="preset_burn_in">Quemar pantalla gratis</string>
+
+    <!-- Dirac settings -->
+    <string name="dirac_title">EQ/Potenciador de Sonido</string>
+    <string name="dirac_summary">Mejor calidad de Audio</string>
+    <string name="dirac_headset_title">Tipo de Auriculares</string>
+    <string name="dirac_preset_title">Preajustes</string>
+
+    <!-- Dirac settings: Headset types -->
+    <string name="dirac_headset_default">Defecto</string>
+    <string name="dirac_headset_earbuds">Mi Earbuds</string>
+    <string name="dirac_headset_in_ear_2013">Mi In-Ear (2013)</string>
+    <string name="dirac_headset_piston_1">Mi Piston-1</string>
+    <string name="dirac_headset_general">General</string>
+    <string name="dirac_headset_general_inear">General In-Ear</string>
+    <string name="dirac_headset_piston_basic">Basic Edition</string>
+    <string name="dirac_headset_piston_2">Mi Piston-2</string>
+    <string name="dirac_headset_piston_standard">Edición Estándar</string>
+    <string name="dirac_headset_headphone">Mi Headphones</string>
+    <string name="dirac_headset_piston_youth">Youth Edition</string>
+    <string name="dirac_headset_piston_color">Color Edition</string>
+    <string name="dirac_headset_in_ear">Mi In-Ear</string>
+    <string name="dirac_headset_capsule">Mi Capsule</string>
+    <string name="dirac_headset_in_ear_pro">Mi In-Ear Pro</string>
+    <string name="dirac_headset_comfort">Mi Comfort</string>
+    <string name="dirac_headset_reduction_noise">Mi Noise Cancelling Type-C</string>
+    <string name="dirac_headset_cancelling">Mi Noise Cancelling 3.5mm</string>
+    <string name="dirac_headset_half_in_ear">Mi Half In-Ear</string>
+    <string name="dirac_headset_in_ear2">Mi In-Ear 2</string>
+    <string name="dirac_headset_earphone_basic">Mi Earphones Basic</string>
+    <string name="dirac_headset_earphone">Mi Earphones</string>
+
+    <!-- Dirac settings: Equalizer presets -->
+    <string name="dirac_preset_default">Defecto</string>
+    <string name="dirac_preset_rock">Rock</string>
+    <string name="dirac_preset_jazz">Jazz</string>
+    <string name="dirac_preset_pop">Pop</string>
+    <string name="dirac_preset_classical">Clásico</string>
+    <string name="dirac_preset_hiphop">Hip Hop</string>
+    <string name="dirac_preset_blues">Blues</string>
+    <string name="dirac_preset_electronic">Electro</string>
+    <string name="dirac_preset_country">Country</string>
+    <string name="dirac_preset_dance">Dance</string>
+    <string name="dirac_preset_metal">Metal</string>
+
+    <!-- Ambient gesture haptic feedback -->
+    <string name="ambient_gesture_haptic_feedback">Retroalimetación Táctil</string>
+    <string name="ambient_gesture_haptic_feedback_summary">Vibrar cuando detecte un gesto</string>
+
+    <!-- Ambient Display -->
+    <string name="ambient_display_enable_title">Pantalla Ambiente</string>
+    <string name="ambient_display_enable_summary">Despertar la pantalla al recibir notificaciones</string>
+    <string name="ambient_display_gestures_title">Gestos en Pantalla Ambiente</string>
+    <string name="ambient_display_gestures_summary">Gestos adicionales para despertar la pantalla</string>
+    <string name="ambient_display_summary">Despertar la pantalla al recibir notificaciones</string>
+    <string name="ambient_display_summary_on">La pantalla se despertará cuando reciba notificaciones</string>
+    <string name="ambient_display_summary_off">La pantalla NO se despertará cuando reciba notificaciones</string>
+
+    <!-- Doze sensor -->
+    <string name="tilt_sensor_title">Sensor de inclinación</string>
+    <string name="pickup_sensor_title">Sensor de Recogida</string>
+    <string name="proximity_sensor_title">Sensor de Proximidad</string>
+
+    <!-- Hand wave gesture -->
+    <string name="hand_wave_gesture_title">Movimiento/Señal de Mano</string>
+    <string name="hand_wave_gesture_summary">Notificación Pulse con Señal de Mano</string>
+    <string name="hand_wave_gesture_flat_title">Detectar Orientación</string>
+    <string name="hand_wave_gesture_flat_summary">Notificación Pulse con telefono boca arriba en superficie plana</string>
+
+    <!-- Pick-up gesture -->
+    <string name="pick_up_gesture_title">Recogida</string>
+    <string name="pick_up_gesture_summary">Notificación Pulse al recoger el dispositivo</string>
+
+    <!-- Pocket gesture -->
+    <string name="pocket_gesture_title">Bolsillo</string>
+    <string name="pocket_gesture_summary">Notificación Pulse al recoger desde el bolsillo</string>
+
+    <!-- Proximity wake -->
+    <string name="proximity_wake_title">Despertador de Proximidad</string>
+    <string name="proximity_wake_enable_title">Despertador de Proximidad</string>
+    <string name="proximity_wake_enable_summary">Despertar dispositivo con señal de mano</string>
+
+    <!-- menu -->
+    <string name="kcal_presets">@string/presets_dialog_title</string>
+    <string name="kcal_reset">Restaurar</string>
+
+    <!-- Label for feature switch  -->
+    <string name="switch_bar_on">Encendido</string>
+
+    <!-- Label for feature switch -->
+    <string name="switch_bar_off">Apagado</string>
+
+    <!-- Custom seekbar -->
+    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">Defecto</string>
+    <string name="custom_seekbar_default_value_to_set">Valor por defecto: <xliff:g id="v">%s</xliff:g>\nMantenga pulsado para configurar</string>
+    <string name="custom_seekbar_default_value_is_set">Establecer valor por defecto</string>
+</resources>
